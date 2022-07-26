@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "",
+    "package_name": "com.luizsantana.applinkstest",
     "sha256_cert_fingerprints":
-    [""]
+    ["B0:EA:02:5B:CB:A3:53:57:9D:02:F1:0A:34:79:42:6B:98:41:AE:5B:43:05:A7:AD:AA:AD:88:C1:7F:84:BE:10"]
   }
 }]
