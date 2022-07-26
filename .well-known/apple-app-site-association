@@ -1,0 +1,30 @@
+{
+   "applinks": {
+       "details": [
+            {
+              "appIDs": ["C5S742N4J4.br.com.easynvest.rendafixa"],
+              "components": [
+                {
+                   "/": "/investir/colecao/.*/FIXEDINCOME.*",
+                   "comment": "Matches FIXEDINCOME URLs"
+                },
+                {
+                   "/": "/investir/fundos/colecao/.*/FUND.*",
+                   "comment": "Matches FUNDs URLs"
+                },
+                {
+                   "/": "/investir/renda-variavel/carteiras/.*/.*",
+                   "comment": "Matches Wallets URLs"
+                },
+                {
+                   "/": "/investir/renda-variavel/carteiras/.*",
+                   "comment": "Matches Wallets URLs"
+                }
+              ]
+            }
+        ]
+    },
+     "appclips": {
+         "apps": ["C5S742N4J4.br.com.easynvest.rendafixa.Clip"]
+     }
+ }
