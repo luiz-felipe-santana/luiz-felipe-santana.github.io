@@ -2,7 +2,7 @@
    "applinks": {
        "details": [
             {
-              "appIDs": ["HBQ858D755.br.com.easynvest.rendafixa"],
+              "appIDs": ["C5S742N4J4.br.com.easynvest.rendafixa"],
               "components": [
                 {
                    "/": "/investir/colecao/.*/FIXEDINCOME.*",
@@ -21,6 +21,6 @@
         ]
     },
      "appclips": {
-         "apps": ["HBQ858D755.br.com.easynvest.rendafixa.Clip"]
+         "apps": ["C5S742N4J4.br.com.easynvest.rendafixa.Clip"]
      }
  }
