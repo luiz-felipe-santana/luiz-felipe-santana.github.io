@@ -5,15 +5,15 @@
               "appIDs": ["C5S742N4J4.br.com.easynvest.rendafixa"],
               "components": [
                 {
-                   "/": "/investir/colecao/.*/FIXEDINCOME.*",
+                   "/": "/investir/colecao/*/FIXEDINCOME*",
                    "comment": "Matches FIXEDINCOME URLs"
                 },
                 {
-                   "/": "/investir/fundos/colecao/.*/FUND.*",
+                   "/": "/investir/fundos/colecao/*/FUND*",
                    "comment": "Matches FUNDs URLs"
                 },
                 {
-                   "/": "/investir/renda-variavel/carteiras/.*",
+                   "/": "/investir/renda-variavel/carteiras/*",
                    "comment": "Matches Wallets URLs"
                 }
               ]
